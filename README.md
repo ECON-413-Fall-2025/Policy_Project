@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/23394266/README.md)
-# Project 2: Policy Lab (ECON 413)
+# Project: Policy Lab (ECON 413)
 
 **Presentation:** Tuesday, December 2 (in class, 10 minutes per team)  
 **Deliverables:** GitHub repo + slide PDF (uploaded before class)
